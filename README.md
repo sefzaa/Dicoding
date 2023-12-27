@@ -3,6 +3,8 @@
 ## Setup environment
 ```
 pip install numpy pandas matplotlib seaborn jupyter streamlit pickle
+pip 23.2.1
+python 3.11
 ```
 
 
